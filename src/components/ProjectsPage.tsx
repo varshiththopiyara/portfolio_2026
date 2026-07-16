@@ -1,7 +1,7 @@
 import ProjectsScrollSection, { type Project } from "../containers/Projects";
-import qKartImage from "../assets/projectImages/q-kart.jpg";
+import qKartImage from "../assets/ProjectImages/q-kart.jpg";
 import qTripImage from "../assets/ProjectImages/q-trip.jpg";
-import qtifyImage from "../assets/ProjectImages/q-tify.jpg"
+import qtifyImage from "../assets/ProjectImages/q-tify.jpg";
 
 const projects: Project[] = [
   {
