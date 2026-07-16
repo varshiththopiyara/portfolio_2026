@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import ThemeToggle from "./ThemeToggle";
-import { useLocation, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const links = ["HOME", "SKILLS", "WORKS", "CONTACT"];
 
